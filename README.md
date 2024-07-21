@@ -1,4 +1,4 @@
-# ZZZCMS-2.1-nday
+# ZZZCMS-1.6.1-nday
 - This is an unauthenticated remote code execution exploit for a chain of three vulnerabilities in ZZZCMS ( authentication bypass, file overwrite and a template parsing injection ).
 - Note: research credits are not mine, I just wrote an exploit for the finding.
 - usage:
